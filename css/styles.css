@@ -1,0 +1,8 @@
+
+
+.banner{
+    background-image: url(/portfolio/dummy.jpg);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
